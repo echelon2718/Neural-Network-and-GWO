@@ -4,4 +4,4 @@ The Grey Wolf Optimizer (GWO) is an optimization algorithm inspired by the socia
 
 
 
-Our findings indicate a marked improvement in accuracy and learning efficiency following the implementation of GWO. In order to prove this, we use the Iris dataset to implement Deep Neural Network. As a result, this method provides great that can match the performance of several robust models such as XGBoost, RandomForest, and SVM for classifying the Iris dataset.
+Our findings indicate a marked improvement in accuracy and learning efficiency following the implementation of GWO. In order to prove this, we use the Iris dataset to train the Deep Neural Network. As a result, this method provides great that can match the performance of several robust models such as XGBoost, RandomForest, and SVM for classifying the Iris dataset.
